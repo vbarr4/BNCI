@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Bard Network Computing Initiative"
+  site-url: https://BNCI.github.io/
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+        
+
+format:
+  html:
+    page-layout: full
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

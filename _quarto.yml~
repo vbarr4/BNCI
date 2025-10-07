@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Valerie Barr"
+  site-url: https://vbarr4.github.io/
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: teaching.qmd
+        text: Teaching
+      - href: research.qmd
+        text: "Research & CV"
+      - href: grantinfo.qmd
+        text: "Grants"
+      - href: press.qmd
+        text: "Press & Blogs"
+      - href: bios.qmd
+        text: "Bios"
+        
+
+format:
+  html:
+    page-layout: full
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

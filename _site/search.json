@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Valerie Barr",
+    "section": "",
+    "text": "Note\nThis is my first attempt at a Quarto website – it’s definitely a work in progress!\n\n\nBrief Bio\nI am the Margaret Hamilton Distinguished Professor of Computer Science in the Computer Science program at Bard College. I was previously the Jean Sammet Professor in the Computer Science department at Mount Holyoke College. Before that I was in the Computer Science Department at Union College. I spent 2013-2014 on temporary assignment to the National Science Foundation, serving as a program director in the Division of Undergraduate Education.\nI also previously served on the faculty at Hofstra University. During my graduate studies I taught at Pratt Institute, Rutgers University, Mount Holyoke College, and Polytechnic University (now NYU Tandon School of Engineering). I received my Masters degree from New York University and my Ph.D. from Rutgers University.\n\n\nResearch Overview\nMy research interests are primarily in\n\ncomputer science education, particularly new curricula that will engage an increasingly diverse group of students in CS\nworking collaboratively with colleagues in other disciplines to apply computing to problems in their fields\nreanalyzing degree attainment data to better identify and understand longstanding trends in the areas of gender & race and ethnicity\nsoftware testing, particularly applied to various kinds of artificial intelligence and language processing systems,\n\nThere is much more information on the Grants page and the Research page.\n\n\nTeaching\nIn Fall, 2023, I am teaching Programming Languages and the brand new Introduction to Data Analytics and R Programming\n\n\nOther Activities\nWithin Bard:\n\nDirector for the Data Analytics concentration\nMember of the steering committee for Experimental Humanities\n\nOutside of Bard:\n\nCo-PI and Steering Ctte. member for the Alliance for Identity Inclusive Computing Education\nMember of LACS, the Liberal Arts Computer Science Consortium"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "grantinfo.html",
+    "href": "grantinfo.html",
+    "title": "Grants",
+    "section": "",
+    "text": "Current Grants\n\nAIICE: Alliance for Identity Inclusive Computing Education, awarded to a consortium of institutions led by Duke University, funded through the NSF INCLUDES program\nThe Data Science WAV:Experiential Learning with Local Community Organizations, joint award to each of the Five Colleges and three area community colleges, funded through the National Science Foundation HDR DSC program\n\nPrior Grants\n\nCUE Ethics: Evaluating Frameworks for Incorporating Computing Across the Curriculum, joint award to Mount Holyoke College, Colby College, Union College, funded through the National Science Foundation CUE program\nCreating a Campus-wide Computation Initiative, joint grant awarded to Union College and Lafayette College, funded through the National Science Foundation CPATH program\nSocial Robotics Consortium of the Capital Region, also funded through the National Science Foundation CPATH program.\nHigh Performance Computing at Liberal Arts Colleges, funded by the Teagle Foundation."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research interests span 3 general areas:\n\nsoftware testing, particularly applied to various kinds of artificial intelligence and language processing systems,\ncomputer science education, particularly new curricula that will engage an increasingly diverse group of students in CS (see Grants page for more information)\nworking collaboratively with colleagues in other disciplines to apply computing to problems in their fields\ndiversity in STEM, including reanalyzing degree attainment data to better identify and understand longstanding trends in the areas of gender & race and ethnicity\n\n\nCurriculum Vita\n\n\nSelect Publications and Presentations\n\n\nBlog Posts, Press"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Courses taught at Bard:\n\nCMSC-121 Introduction to Data Analytics & R Programming\nCMSC-210 Data Structures\nCMSC-305 Design of Programming Languages\n\n\n\nCourses taught at Mount Holyoke:\n\nCOMSC-120 Introduction to R (1 credit)\nCOMSC-121 Introduction to object oriented programming (1 credit)\nCOMSC-122 Introduction to Java (1 credit)\nAll versions of data structures (COMSC-201, COMSC-205, COMSC-211)\nCOMSC-243MS Modeling and Simulation\nCOMSC-343 Programming Languages\nCOMSC-341CC Compiler Construction\n\n\n\nCourses taught at Union:\n\nCSC 050 Computers and Computing\nCSC 103 Taming Big Data\nCSC 106 Can Computers Think?\nCSC 107 Creative Computing\nCSC 109 Programming for Engineers\nCSC 234 Data Visualization\nCSC 235 Modeling and Simulation\nCSC 260 Large Scale Software Design\nCSC 320 Artificial Intelligence\nCSC 370 Programming Languages\nCSC 483/CSC 375 Compiler Construction\nCSC 497 Computer Science Capstone Seminar\nSCH 150 Scholars Seminar/ SRS 200 Sophomore Research Seminar: Brilliant Minds, Embattled Souls: Scientists in Conflict With Their Governments\nSCH 150 Scholars Seminar: Identity and Technology in a Media-Saturated World\nSRS 200 Sophomore Research Seminar: Disasters and Technology\nWGS 100 Introduction to Women’s and Gender Studies\n\n\n\nCourses taught elsewhere:\n\nOverview of Computer Science\nDiscrete Structures\nFundamentals of Computer Science 1\nFundamentals of Computer Science 2\nC & Unix\nAlgorithms and Data Structures\nProgramming Languages\nCompiler Construction\nIntroduction to Artificial Intelligence\nComputing Ethics, and Society\nSoftware Engineering\nIntroduction to Women’s Studies\nGender and Science"
+  },
+  {
+    "objectID": "press.html",
+    "href": "press.html",
+    "title": "Press",
+    "section": "",
+    "text": "Various blog posts:\n\nCommunications of the ACM Blog@ACM, where I post periodically (links to recent posts are given below)\n\nHow We Teach Should Be Independent Of Who We Are Teaching, October 11, 2016.\nA Very Local Snapshot of K-12 CS Education, June 30, 2016.\nWhy is Ada Lovelace Still the Woman that Young (and Not So Young) Women Look To?, December 10, 2015.\nThe ‘Frenzy About High Tech Talent’ and a Call for Corporate Action, October 26, 2015.\nIf Something Seems Odd, Check the Data, and Check It Again!, August 18, 2015.\nThings That Men Can Do To Be Real Allies For Women In Computing, August 3, 2015\nSome Thoughts For Computer Science Teaching Assistants (and Faculty), January 4, 2015\nWomen in STEM, Women in Computer Science: We’re Looking At It Incorrectly, December 1, 2014\nThe Toy Aisle Matters More Than Ever: Girls and Computing, November 19, 2014\nSatya Nadella and Grace Hopper, October 16, 2014\nThe Frontier of Small Data, September 29, 2013\nIs It Time to Change How Software Developers Are Hired?, December 18, 2012\nExciting ‘Big Data’ Medical Applications, November 12, 2012\n\nComputer Science Teachers Association Advocate Blog, where I posted when I was on the CSTA board (links for select posts are below)\n\nSomething Old, Something New, July 30, 2013\nWhat’s Not to Love About NYC Pilot Program, March 25, 2013\nOn Grades and STEM, February 12, 2013\nYou can be a computer scientist and a feminist, part of Anita’s Quilt - Threads of Inspiration, January 31, 2013\nThere’s Nothing Like a Good Book, November 3, 2012\n\n\n\n\nPress articles and other media\n\nComputer Science as Liberal Arts ‘Enabler’, Inside Higher Ed, February 23, 2016\nAhead of the Class, Behind in the Field, Albany Times Union Women@Work magazine, February, 2016.\nLogging on to the Future, Colby Magazine, Fall 2015.\nDiversity Careers in Engineering and Information Technology, quoted in the article “Will women fill the need for more IT professionals”, Summer/Fall 2012.\nNew York Times Letter to the Editor, 4/9/2012\n“STEM and Humanities: It Isn’t Either-Or”, published by 4Humanities, January 17, 2012\nSQL Anywhere picked up some of my blog post on Barbara Liskov’s talk at the 2011 Grace Hopper Conference\nNSF CISE Broader Impacts for Research and Discovery Summit, 2010"
+  },
+  {
+    "objectID": "department.html",
+    "href": "department.html",
+    "title": "Department",
+    "section": "",
+    "text": "Bard College CS Department Overview\nPlease check the\n\n\nCS Program Home Page"
+  }
+]

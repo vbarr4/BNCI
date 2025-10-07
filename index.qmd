@@ -1,0 +1,46 @@
+---
+title: "Bard Network Computing Initiative"
+image: PM_Robotics.jpg
+about: 
+  template: trestles
+  links: 
+    - text: Email
+      url: "mailto:vbarr@bard.edu"
+---
+::: {.column-page}
+
+### 
+
+The goal of the Bard Network Computing Initiative (BNCI) is to support delivery of and expansion of computing and data analysis activities throughout the Bard Network.
+
+### What do we do?
+
+Work of the BNCI is support by and carried out in concert with the [Computational Sciences program](https://cs.bard.edu/) at Bard College.  Activities of the BNCI include:
+
+  - Modules developed for and delivered in courses across the disciplines
+
+| Course Title  |      Module      |
+|---------------|------------------|
+| Intro to Media | Media consolidation, personal data, and algorithmic bias |
+| Epidemics & Society | Modeling and visualization of disease spread and vaccine efficacy |
+| Intro to Community Sciences | Air and water quality data analysis |
+| Problems of Archaeological Archives | Text analysis, expanded spreadsheet analysis |
+| Introduction to Physics | Statistical analysis and data manipulation |
+
+: {tbl-colwidths="[35, 65]"}
+
+  - Senior project support for students with data analysis challenges
+
+  - Short courses on Statistics, Geographic Information Systems, Data Visualization
+
+  - (planned) On-campus Data Analysis Support Center
+
+
+
+
+### The Director
+
+The current Director of the BNCI is [Valerie Barr](https://vbarr4.github.io/), the [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)) Distinguished Professor of Computer Science at [Bard College](http://www.bard.edu/). 
+
+
+:::
