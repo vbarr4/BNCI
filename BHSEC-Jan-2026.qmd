@@ -1,0 +1,87 @@
+---
+title: "Introducing Data Analytics"
+subtitle: "A Module Based Approach"
+author: "Valerie Barr"
+format: 
+  revealjs:
+    theme: [sky, custom.css]
+    slide-number: c
+    incremental: false
+    code-link: true
+  html:
+    highlight-style: github
+    code-block-border-left: "#4f6952"
+    code-block-bg: true
+    css: ../gallery.css
+lightbox: true
+
+editor: visual
+---
+
+## Goal of Data Analytics (DA)
+
+Expose all students, regardless of area of study, to applications of computing and data analysis
+
+## In Annandale
+
+-   Data Analytics minor
+
+    - Intro, Data Viz, GIS, Spatial Analysis, Modeling & Simulation
+  
+-   Growing menu of 2 cr. courses
+
+    - Algorithmic Bias, Computational Approaches to Language
+  
+-   Modules
+
+## In Bard Network
+
+-   Modules
+-   Support for local curriculum development
+
+## Modules?
+
+-   Short, custom
+-   In concert with disciplinary material
+-   Support course goals and learning outcomes
+
+## Examples
+
+Fall 2025:
+
+-   Epidemics and Society (2 sessions)
+    
+-   Introduction to Media (2 sessions)
+
+
+## Examples
+
+Spring 2026:
+
+-   Introduction to Physics (4 sessions)
+-   Quantum Mechanics (4 sessions)
+-   Introduction to Community Sciences
+-   Dura-Europos and the Problems of Archaeological Archives
+
+## Other possibilities
+
+- Introduction to Text Analysis
+- Data Cleaning & Recoding
+- Basic Statistics Using R/Python
+- Your idea here
+  - What would work in **your** courses?
+
+## Possible time frame
+
+- Develop module plans during Spring 2026
+- Deliver in academic 2026-2027 classes
+
+## Already using computing in courses?
+
+Want to include instruction about core computing concepts?
+
+-   [https://occtive.github.io/www/](https://occtive.github.io/www/)
+
+## Contact info
+
+vbarr@bard.edu

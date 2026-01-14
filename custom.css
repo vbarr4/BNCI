@@ -1,0 +1,10 @@
+/*-- scss:defaults --*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+$font-family-sans-serif: "Montserrat", sans-serif;
+$presentation-heading-font: "Montserrat", sans-serif;
+$presentation-font-size-root: 40px;
+$presentation-line-height: 1.6;
