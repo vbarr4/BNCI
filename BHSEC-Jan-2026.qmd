@@ -26,12 +26,12 @@ Expose all students, regardless of area of study, to applications of computing a
 
 -   Data Analytics minor
 
-    - Intro, Data Viz, GIS, Spatial Analysis, Modeling & Simulation
-  
+    -   Intro, Data Viz, GIS, Spatial Analysis, Modeling & Simulation
+
 -   Growing menu of 2 cr. courses
 
-    - Algorithmic Bias, Computational Approaches to Language
-  
+    -   Algorithmic Bias, Computational Approaches to Language
+
 -   Modules
 
 ## In Bard Network
@@ -50,9 +50,8 @@ Expose all students, regardless of area of study, to applications of computing a
 Fall 2025:
 
 -   Epidemics and Society (2 sessions)
-    
--   Introduction to Media (2 sessions)
 
+-   Introduction to Media (2 sessions)
 
 ## Examples
 
@@ -65,23 +64,23 @@ Spring 2026:
 
 ## Other possibilities
 
-- Introduction to Text Analysis
-- Data Cleaning & Recoding
-- Basic Statistics Using R/Python
-- Your idea here
-  - What would work in **your** courses?
+-   Introduction to Text Analysis
+-   Data Cleaning & Recoding
+-   Basic Statistics Using R/Python
+-   Your idea here
+    -   What would work in **your** courses?
 
 ## Possible time frame
 
-- Develop module plans during Spring 2026
-- Deliver in academic 2026-2027 classes
+-   Develop module plans during Spring 2026
+-   Deliver in academic 2026-2027 classes
 
 ## Already using computing in courses?
 
 Want to include instruction about core computing concepts?
 
--   [https://occtive.github.io/www/](https://occtive.github.io/www/)
+-   <https://occtive.github.io/www/>
 
 ## Contact info
 
-vbarr@bard.edu
+vbarr\@bard.edu
